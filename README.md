@@ -1,4 +1,4 @@
-# Ecommerce-with-React-and-Firebase
+# Ecommerce site-with-React-and-Firebase
 
 React,Redux,Firebase
 
